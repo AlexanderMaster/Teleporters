@@ -1,0 +1,25 @@
+tile.normalTeleporter.name=Normaler Teleporter
+tile.advancedTeleporter.name=Erweiterter Teleporter
+tile.blockTeleporter.name=Block Teleporter
+tile.areaTeleporter.name=Bereich Teleporter
+tile.advancedAreaTeleporter.name=Erweiterter Bereich Teleporter
+
+item.teleporterConnector.name=Teleporter Verbinder
+item.destinationStone.name=Ziel Manager
+item.teleportationCore.name=Teleportations Kern
+item.enderPearlDust.name=Enderperlenstaub
+
+random.name=Name
+random.nothingSelected=Kein Ziel ausgewaehlt
+random.currentSelected=Derzeit ausgewaehltes Ziel
+random.dimension=Dimension
+random.linked=Verbunden mit
+
+stone.noGroupSelected=Kein Ziel ausgewaehlt
+
+gui.headline=Waehle dein Ziel
+gui.help1=INFORMATION: Mit einem Linksklick auf einen Knopf waehlst dein Ziel,  
+gui.help2=mit Rechtsklick kannst du den Namen aendern
+gui.help3=und mit dem Mausrad kannst du ein Ziel loeschen
+gui.whitelist=Whitelist Modus
+gui.blacklist=Blacklist Modus

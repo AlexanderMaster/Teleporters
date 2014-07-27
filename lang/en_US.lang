@@ -1,0 +1,25 @@
+tile.normalTeleporter.name=Normal Teleporter
+tile.advancedTeleporter.name=Advanced Teleporter
+tile.blockTeleporter.name=Block Teleporter
+tile.areaTeleporter.name=Area Teleporter
+tile.advancedAreaTeleporter.name=Advanced Area Teleporter
+
+item.teleporterConnector.name=Teleporter Connector
+item.destinationStone.name=Destination Manager
+item.teleportationCore.name=Teleportation Core
+item.enderPearlDust.name=Ender Pearl Dust
+
+random.name=Name
+random.nothingSelected=No Destination Selected
+random.currentSelected=Current Selected Destination
+random.dimension=Dimension
+random.linked=Linked to
+
+stone.noGroupSelected=No Destination Selected
+
+gui.headline=Select your Destination
+gui.help1=INFO: Left click on a Button to select a Destination,
+gui.help2=right click on a Button to change its Name
+gui.help3=and click Mousewheel on a Button to delete the Destination
+gui.whitelist=Whitelist Mode
+gui.blacklist=Blacklist Mode
